@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWF5MTcyNzJpa2VpempvazRnbHc5dzZuOHRhcmZqbHQwNWF6bW1ldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LtVmxCRHQu33a/giphy.gif" width="400"/>
+  <img src="https://media1.tenor.com/m/V0-wtCT-OPAAAAAC/spike-spiegel.gif" width="400"/>
 </div>
 
 <h1 align="center">👋 Hola, soy Fabian Vega</h1>
