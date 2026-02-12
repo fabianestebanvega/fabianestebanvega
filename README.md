@@ -89,14 +89,17 @@ Actualmente busco oportunidades de pasantía o primer empleo como desarrollador 
 <h2>📫 Contacto</h2>
 
 <p align="center">
-  📧 tucorreo@gmail.com <br><br>
+
   <a href="https://www.linkedin.com/in/tu-linkedin/" target="_blank">
-    LinkedIn
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp; | &nbsp;
-  <a href="https://github.com/tuusuario">
-    GitHub
+  
+  &nbsp;
+  
+  <a href="mailto:tucorreo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
 </p>
 
 <hr>
@@ -104,3 +107,4 @@ Actualmente busco oportunidades de pasantía o primer empleo como desarrollador 
 <div align="center">
   💡 "La disciplina supera al talento cuando el talento no es disciplinado."
 </div>
+
